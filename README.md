@@ -17,7 +17,7 @@
 
 - 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/14I7gjewWQzhpBSIVKPorqRx0Ab2drbT_/view?usp=sharing)
 
-- ⚡ Fun fact **I love playing Guitar  and  exploring EveryThing which keen my interest**
+- ⚡ Fun fact **I love playing Guitar and exploring EveryThing which keen my interest**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
