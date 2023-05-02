@@ -11,7 +11,7 @@
 
 - A Solo java project [YOUR HELPER](https://drive.google.com/file/d/16_emgxITXID3z8aFFQRd5jg5XE-Gi9-n/view?usp=share_link)
 
-- 👨‍💻 All of my projects are available at [https://Rupesh0913.github.io](https://Rupesh0913.github.io)
+- 👨‍💻 All of my projects are available at [MYPortfolio](https://Rupesh0913.github.io)
 
 - 📫 How to reach me **k.rupeshsinh0913@gmail.com**
 
