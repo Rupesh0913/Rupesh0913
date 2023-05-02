@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **k.rupeshsinh0913@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/14I7gjewWQzhpBSIVKPorqRx0Ab2drbT_/view?usp=sharing](https://drive.google.com/file/d/14I7gjewWQzhpBSIVKPorqRx0Ab2drbT_/view?usp=sharing)
+- 📄 Know about my experiences [MyResume](https://drive.google.com/file/d/14I7gjewWQzhpBSIVKPorqRx0Ab2drbT_/view?usp=sharing)
 
 - ⚡ Fun fact **I love playing Guitar**
 
