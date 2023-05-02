@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rupesh Kumar Sinha</h1>
-<h3 align="center">A passionate and inspiring Java Full-Stack Web Developer</h3>
+<h3 align="center">A passionate and inspiring Full-Stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rupesh0913&label=Profile%20views&color=0e75b6&style=flat" alt="rupesh0913" /> </p>
 
@@ -7,7 +7,7 @@
 
 - A Group Project [COOL CLOTH](https://bucolic-malasada-a43ddd.netlify.app/)
 
-- 🌱 I’m currently learning **Java Full-Stack Web Development**
+- 🌱 I’m currently learning ** Full-Stack Web Development **
 
 - A Solo java project [YOUR HELPER](https://drive.google.com/file/d/16_emgxITXID3z8aFFQRd5jg5XE-Gi9-n/view?usp=share_link)
 
